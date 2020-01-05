@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+venv/
+.idea/
+.ipynb_checkpoints/
+.DS_Store/
